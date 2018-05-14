@@ -1,1 +1,2 @@
-
+2: Follow the same specifications to write a java program that uses two recursive power function objects we addressed in class. 
+Compare the execution time (in nanoseconds) of the result. (1 point)
