@@ -1,0 +1,5 @@
+
+1: Write a java program that can compute factorial value of any number using recursive calls with the specifications as follows: (1 point)
+    
+(a)	Allow user to input only numerical data from keyboard. Reject any other invalid data type. 
+(b)	Create a class object for the calculation and invoke the method from the main program. 
